@@ -1,9 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Nistype
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skylight", "Skylight\Skylight.csproj", "{C7148365-517F-4DD9-8DCE-EDC013497722}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OP-X", "OP-X\op-x.csproj", "{C7148365-517F-4DD9-8DCE-EDC013497722}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
